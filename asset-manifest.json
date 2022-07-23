@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woodvolumecalculator/static/css/main.c61c4ca5.css",
+    "main.js": "/woodvolumecalculator/static/js/main.ae520dea.js",
+    "index.html": "/woodvolumecalculator/index.html",
+    "main.c61c4ca5.css.map": "/woodvolumecalculator/static/css/main.c61c4ca5.css.map",
+    "main.ae520dea.js.map": "/woodvolumecalculator/static/js/main.ae520dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c61c4ca5.css",
+    "static/js/main.ae520dea.js"
+  ]
+}
