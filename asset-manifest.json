@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/woodvolumecalculator/static/css/main.8ab8ed68.css",
+    "main.css": "/woodvolumecalculator/static/css/main.a6fed4eb.css",
     "main.js": "/woodvolumecalculator/static/js/main.33832c6c.js",
     "index.html": "/woodvolumecalculator/index.html",
-    "main.8ab8ed68.css.map": "/woodvolumecalculator/static/css/main.8ab8ed68.css.map",
+    "main.a6fed4eb.css.map": "/woodvolumecalculator/static/css/main.a6fed4eb.css.map",
     "main.33832c6c.js.map": "/woodvolumecalculator/static/js/main.33832c6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ab8ed68.css",
+    "static/css/main.a6fed4eb.css",
     "static/js/main.33832c6c.js"
   ]
 }
